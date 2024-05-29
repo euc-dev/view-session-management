@@ -1,7 +1,10 @@
 ---
 layout: page
-title: SDKs
-permalink: /sdks/rdpvcbridge
+title: Horizon RDP VC Bridge SDK
+permalink: /sdks/horizon/rdpvcbridge
+hide:
+  #- navigation
+  - toc
 ---
 
 # RDP VC Bridge
@@ -18,6 +21,9 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | Name | Version | Size | MD5|  |
 | --- | --- | --- | --- | --- |
 | RDP VC Bridge | 3.3.0 | 36.3 KB | 8159599cf07d880c468a6fe206825ec2 | [Download](VMware-rdpvcbridge-sdk-18347885.zip) |	
+
+!!! Note
+    Question: should we download the older versions and store them in this repo? I think yes.
 
 ## Documentation and Reference
 | Name | Size	|

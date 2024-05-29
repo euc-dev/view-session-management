@@ -1,7 +1,10 @@
 ---
 layout: page
-title: SDKs
-permalink: /sdks/view-session-management
+title: Horizon View Session Enhancement SDK
+permalink: /sdks/horizon/view-session-management
+hide:
+  #- navigation
+  - toc
 ---
 
 # Horizon View Session Enhancement
@@ -18,6 +21,9 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | Name | Version | Size | MD5 |  |
 | --- | --- | --- | --- | --- |
 |Horizon View Session Enhancement | 3.3.0 | 524.7 KB | 509fec1b84019f24bf257afc3ecb8aa5 | Download |
+
+!!! Note
+    Question: should we download the older versions and store them in this repo? I think yes.
 
 ## Documentation and Reference
 | Name | Size |	 
