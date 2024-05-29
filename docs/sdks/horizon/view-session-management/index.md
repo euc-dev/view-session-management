@@ -7,8 +7,6 @@ hide:
   - toc
 ---
 
-# Horizon View Session Enhancement
-
 The VMware View Session Enhancement Software Development Kit (SDK) allows software engineers to write host-side and client-side applications and allow communications between a clients and remote desktop. The Session Enhancement SDK is comprised of a Remote Procedure Call (RPC) API and Overlay API.
 
 The RPC API provides an asynchronous, callback driven communications channel between applications running on the remote desktop and a plugin running on the client endpoint. The RPC API also handles marshaling / un-marshaling of parameters. The Overlay API solves the problem of displaying rendered images on the client so that they appear to the user to be a local window on the remote desktop.
