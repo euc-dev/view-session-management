@@ -9,6 +9,4 @@ hide:
 
 The following SDKs are provided for Horizon environments.
 
-[VMware RDP VC Bridge SDK](rdpvcbridge/index.md)
-
-[VMware View Session Enhancement SDK](view-session-management/index.md)
+[cards cols=2 (sdks/horizon-sdk/docs/doc-ref.yaml)]
