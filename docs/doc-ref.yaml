@@ -1,9 +1,9 @@
 - title: VMware RDP VC Bridge SDK
- #content: VMware App Volumes API Programming Guide
+ #content: 
   url: rdpvcbridge/index.md
   image: ../../assets/logos/horizon-logo.png
 
 - title: VMware View Session Enhancement SDK
- #content: VMware App Volumes API Programming Guide
+ #content: 
   url: view-session-management/index.md
-  image: ../../assets/logos/app-volumes.png
+  image: ../../assets/logos/horizon-logo..png
