@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Horizon View Session Enhancement SDK v1.0
-#permalink: /sdks/horizon/view-session-management
 hide:
   #- navigation
   - toc
@@ -27,9 +26,9 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | Name | Size |
 | --- | --- |
 | API References @span |   |
-| [VMware Horizon View Session Enhancement SDK Agreement]() | 231.9  KB |
+| [VMware Horizon View Session Enhancement SDK Agreement](View%20Session%20Enhancement%20SDK%20Agreement%201.0%20(FINAL).pdf) | 231.9  KB |
 | Development Guides @span |   |
-| [VMware Horizon View Session Enhancement SDK API Guide]() | 294.5  KB |
+| [VMware Horizon View Session Enhancement SDK API Guide](VSESDKGuide.pdf) | 294.5  KB |
 | OSS @span |   |
 | [Horizon View Session Enhancement SDK 1_0 Open Source License.txt]() | 5.1 KB |
 
@@ -37,4 +36,4 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Contributor | Language |
 | --- | --- | --- |
-| [Infrastructure Pain Points Overview](https://developer.omnissa.com/horizon/sdks/view-session-management/samples/infrastructure-pain-points-overview) | VMkbruesch | 	vRealize Ops Dashboard |
+| [Infrastructure Pain Points Overview](https://github.com/euc-dev/euc-samples/tree/main/Horizon-Samples/infrastructure-pain-points-overview) | VMkbruesch | 	vRealize Ops Dashboard |

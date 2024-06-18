@@ -20,7 +20,7 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Version | Size | MD5|  |
 | --- | --- | --- | --- | --- |
-| RDP VC Bridge | 3.3.0 | 36.3 KB | 8159599cf07d880c468a6fe206825ec2 | [Download](./versions/3.3.0/VMware-rdpvcbridge-sdk-18347885.zip) |	
+| RDP VC Bridge | 3.3.0 | 36.3 KB | 8159599cf07d880c468a6fe206825ec2 | [Download](VMware-rdpvcbridge-sdk-18347885.zip) |	
 
 !!! Todo
     Question: should we download the older versions and store them in this repo? I think yes. The links to the other versions are within the versions folder index.html
@@ -29,4 +29,4 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | Name | Size	|
 | --- | --- |
 | Development Guides |  |
-| [VMware Horizon RDP Virtual Channel Bridge SDK Programming Guide](./versions/3.3.0/horizon-RDP-virtual-channel-bridge-SDK-33-programming-guide.pdf) | 523.9 KB |
+| [VMware Horizon RDP Virtual Channel Bridge SDK Programming Guide](horizon-RDP-virtual-channel-bridge-SDK-33-programming-guide.pdf) | 523.9 KB |

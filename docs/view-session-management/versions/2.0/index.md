@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Horizon View Session Enhancement SDK v2.0
-#permalink: /sdks/horizon/view-session-management
 hide:
   #- navigation
   - toc
