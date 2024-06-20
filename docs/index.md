@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Horizon SDK Documentation
-#permalink: /sdks/horizon/
 hide:
   #- navigation
   - toc

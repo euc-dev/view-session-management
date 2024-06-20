@@ -18,8 +18,8 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Version | Size | MD5 |   |
 | --- | --- | --- | --- | --- |
-| Horizon View Session Enhancement SDK for Windows | 1.0 |   |  | [link]() { .md-button .md-button--primary }  |
-| Horizon View Session Enhancement SDK for Linux | 1.0 |   |  | [link]() { .md-button .md-button--primary } |
+| Horizon View Session Enhancement SDK for Windows | 1.0 |   |  | [Download](#) { .md-button .md-button--primary } |
+| Horizon View Session Enhancement SDK for Linux | 1.0 |   |  | [Download](#) { .md-button .md-button--primary } |
 
 ## Documentation and Reference
 
@@ -30,7 +30,7 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | Development Guides @span |   |
 | [VMware Horizon View Session Enhancement SDK API Guide](VSESDKGuide.pdf) | 294.5  KB |
 | OSS @span |   |
-| [Horizon View Session Enhancement SDK 1_0 Open Source License.txt]() | 5.1 KB |
+| [Horizon View Session Enhancement SDK 1_0 Open Source License.txt](#) | 5.1 KB |
 
 ## Top Community Sample Code
 
