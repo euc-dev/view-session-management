@@ -20,6 +20,6 @@ The following SDKs are provided for Horizon environments.
 - title: VMware View Session Enhancement SDK
   #content: 
   url: view-session-management/index.md
-  image: ../../assets/logos/horizon-logo..png
+  image: ../../assets/logos/horizon-logo.png
 
 ::/cards::
